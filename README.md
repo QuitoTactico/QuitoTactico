@@ -1,5 +1,5 @@
 - Hi, I’m @QuitoTactico
-- I’m interested in Games ad Competitive Programmation
+- I’m interested in Games and Competitive Programmation
 - I’m currently learning how to code in python
 - I’m looking to collaborate on small pathfinding projects
 - How to reach me!:  
