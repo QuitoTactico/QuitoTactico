@@ -1,7 +1,8 @@
 - Hi, I’m @QuitoTactico
 - I’m interested in Games and Competitive Programmation
-- I’m currently learning how to code in python
-- I’m looking to collaborate on small pathfinding projects
+- I’m currently learning how to code in basically anything
+- I’m looking to collaborate on small pathfinding projects and game development
+- If you tell me to put doom 64 on your microwave, i will do it.
 - How to reach me!:  
   teteban0917@gmail.com /
   evergarag@eafit.edu.co /
