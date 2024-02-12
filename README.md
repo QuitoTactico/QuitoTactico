@@ -1,8 +1,8 @@
-- Hi, I’m @QuitoTactico
-- Currently studying systems engineering at EAFIT university
-- I’m interested in Machine Learning, Competitive Programmation and Game Development
-- I’m currently learning how to code in basically any language, but my favourites are Python and C++
-- I’m looking to collaborate on small projects and game development
+- Hi, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
+- Currently studying systems engineering at `EAFIT University`.
+- I’m interested in `Machine Learning`, `Competitive Programmation` and `Game Development`.
+- Continuously learning how to code anything in basically any language, but my favourites are `Python` and `C++`
+- I’m looking to collaborate on small machine learning projects and indie game development.
 - If you tell me to put DOOM-64 on your microwave, i'll do it.
 - How to reach me:
   evergarag@eafit.edu.co /
