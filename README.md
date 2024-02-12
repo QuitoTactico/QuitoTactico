@@ -1,7 +1,7 @@
 - Hi, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying systems engineering at `EAFIT University`.
 - I’m interested in `Machine Learning`, `Competitive Programmation` and `Game Development`.
-- Continuously learning how to code anything in basically any language, but my favourites are `Python` and `C++`
+- Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
 - I’m looking to collaborate on small machine learning projects and indie game development.
 - If you tell me to put DOOM-64 on your microwave, i'll do it.
 - How to reach me:
