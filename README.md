@@ -7,7 +7,8 @@
 - How to reach me:
   evergarag@eafit.edu.co /
   teteban0917@gmail.com
- 
+
+![image](https://www.codewars.com/users/EstebanQuito/badges/large)
 
 <!---
 
