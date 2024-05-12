@@ -8,9 +8,15 @@
   evergarag@eafit.edu.co /
   teteban0917@gmail.com
 
-![image](https://www.codewars.com/users/EstebanQuito/badges/large)
+![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
 
-### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
+</p>
+
+<!--
+![image](https://www.codewars.com/users/EstebanQuito/badges/large)
+-->
 
 <p align="center">
 <a href="https://github.com/quitotactico">
