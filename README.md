@@ -1,12 +1,22 @@
-<p align="center">
+
+<!-- Hi XD, what are you doing here? -->
+<div align="center">
   <img src="docs/hello.svg">
-</p>
+</div>
+
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+<!-- 
+[<img align="left" height="50" src="docs/hello.svg">](https://github.com/QuitoTactico)
+-->
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying systems engineering at [EAFIT University](https://www.eafit.edu.co/).
 - I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programmation` and `Game Development`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
 - I’m looking to collaborate on small machine learning projects and indie game development.
+
+[<img align="right" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
 - If you tell me to put DOOM-64 on your microwave, i'll do it.
 - How to reach me:
   evergarag@eafit.edu.co /
