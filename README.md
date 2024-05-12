@@ -24,9 +24,14 @@
   <!--
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=compact&langs_count=8&theme=algolia"/>
   -->
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=donut&hide=HTML&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=compact&langs_count=8&hide=HTML&theme=algolia&count_private=true"/>
 </a>
 </p>
+<!--
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=donut&hide=HTML&theme=algolia&count_private=true"/>
+![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quitoactico&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=quitotactico"/>
+-->
 
 <!---
 
