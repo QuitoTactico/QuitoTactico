@@ -1,6 +1,6 @@
-- Hi, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
-- Currently studying systems engineering at `EAFIT University`.
-- I’m interested in `Machine Learning`, `Competitive Programmation` and `Game Development`.
+- Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
+- Currently studying systems engineering at [EAFIT University](https://www.eafit.edu.co/).
+- I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programmation` and `Game Development`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
 - I’m looking to collaborate on small machine learning projects and indie game development.
 - If you tell me to put DOOM-64 on your microwave, i'll do it.
@@ -8,37 +8,25 @@
   evergarag@eafit.edu.co /
   teteban0917@gmail.com
 
-![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
-
 <p align="center">
   <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
 </p>
 
+![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
+
 <!--
 ![image](https://www.codewars.com/users/EstebanQuito/badges/large)
 -->
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quitotactico&show_icons=true&rank_icon=percentile&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile"/>
-  </a>
-    <!--
-    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=compact&langs_count=8&theme=algolia"/>
-    -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="259" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=compact&langs_count=10&hide=HTML&theme=algolia&count_private=true&hide_border=true&role=owner,collaborator"/>
-  </a>
-</div>
 
 <!-- LMAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
 
 <!-- Dark Mode -->
 <div align="center"> 
-<a href="https://github.com/quitotactico">
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=quitotactico&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&exclude_repo=github-readme-stats&theme=transparent" alt="QuitoTactico's Github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=180em src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=donut-vertical&langs_count=7&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent" alt="QuitoTactico's Language stats" />
-</a>
+  <img height=259 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=310&exclude_repo=github-readme-stats&theme=transparent&custom_title=QuitoTactico%27s+Github+stats" alt="QuitoTactico's Github stats" />
+  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=compact&langs_count=10&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats" alt="QuitoTactico's Language stats" />
+  <!-- Donut
+  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=6&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats" alt="QuitoTactico's Language stats" />
+  -->
 </div>
 
 <!-- 
