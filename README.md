@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/hello.svg">
+</p>
+
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying systems engineering at [EAFIT University](https://www.eafit.edu.co/).
 - I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programmation` and `Game Development`.
