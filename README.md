@@ -19,12 +19,14 @@
 -->
 
 <p align="center">
-<a href="https://github.com/quitotactico">
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quitotactico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/quitotactico" style="text-decoration: none;">
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quitotactico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile"/>
+</a>
   <!--
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=compact&langs_count=8&theme=algolia"/>
   -->
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=compact&langs_count=8&hide=HTML&theme=algolia&count_private=true"/>
+<a href="https://github.com/quitotactico" style="text-decoration: none;">
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quitotactico&layout=compact&langs_count=10&hide=HTML&theme=algolia&count_private=true&hide_border=true&role=owner,collaborator"/>
 </a>
 </p>
 <!--
