@@ -25,7 +25,7 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="flex: 1;"><img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:quitotactico?theme=rule34"></a>
     <a href="https://www.codewars.com/users/EstebanQuito/" style="flex: 1;">
       <p align="center">
-        <img height="50" src="https://www.codewars.com/users/EstebanQuito/badges/large">
+        <img height="45" src="https://www.codewars.com/users/EstebanQuito/badges/large" style="margin:auto;">
       </p>
     </a>
 </div>
@@ -41,8 +41,6 @@
   <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
 </p>
 -->
-
-<br>
 
 ![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
 
