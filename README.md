@@ -4,27 +4,46 @@
   <img src="docs/hello.svg">
 </div>
 
-[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 <!-- 
 [<img align="left" height="50" src="docs/hello.svg">](https://github.com/QuitoTactico)
 -->
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying systems engineering at [EAFIT University](https://www.eafit.edu.co/).
-- I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programmation` and `Game Development`.
+- I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programming` and `Game Development`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
 - I’m looking to collaborate on small machine learning projects and indie game development.
 
-[<img align="right" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
 - If you tell me to put DOOM-64 on your microwave, i'll do it.
 - How to reach me:
   evergarag@eafit.edu.co /
   teteban0917@gmail.com
 
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <a href="https://github.com/QuitoTactico/DnD-AI" style="flex: 1;"><img align="left" height="50" src="docs/DnD_right.png"></a>
+    <a href="https://www.codewars.com/users/EstebanQuito/" style="flex: 1;"><img align="center" height="50" src="https://www.codewars.com/users/EstebanQuito/badges/large"></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="flex: 1;"><img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:quitotactico?theme=rule34"></a>
+</div>
+
+
+<!--
+[<img align="left" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
+[<img align="left" height="50" src="https://www.codewars.com/users/EstebanQuito/badges/large">](https://www.codewars.com/users/EstebanQuito/)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+-->
+<!-- 
 <p align="center">
   <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
 </p>
+-->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
 
