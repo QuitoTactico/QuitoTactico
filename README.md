@@ -1,5 +1,6 @@
 
 <!-- Hi XD, what are you doing here? -->
+
 <div align="center">
   <img src="docs/hello.svg">
 </div>
@@ -7,6 +8,12 @@
 <!-- 
 [<img align="left" height="50" src="docs/hello.svg">](https://github.com/QuitoTactico)
 -->
+<!-- 
+![Counter](https://count.akame.moe/@quitotactico)
+[<img align="right" width="150" alt="" src="https://count.getloli.com/get/@:quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+-->
+[<img align="right" width="150" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[<img align="right" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying systems engineering at [EAFIT University](https://www.eafit.edu.co/).
@@ -20,6 +27,7 @@
   teteban0917@gmail.com
 
 
+<!--
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <a href="https://github.com/QuitoTactico/DnD-AI" style="flex: 1;"><img align="left" height="50" src="docs/DnD_right.png"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="flex: 1;"><img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:quitotactico?theme=rule34"></a>
@@ -29,18 +37,18 @@
       </p>
     </a>
 </div>
-
+-->
 
 <!--
 [<img align="left" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
 [<img align="left" height="50" src="https://www.codewars.com/users/EstebanQuito/badges/large">](https://www.codewars.com/users/EstebanQuito/)
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 -->
-<!-- 
+
 <p align="center">
   <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
 </p>
--->
+
 
 ![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
 
