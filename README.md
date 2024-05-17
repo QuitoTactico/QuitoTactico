@@ -12,8 +12,8 @@
 ![Counter](https://count.akame.moe/@quitotactico)
 [<img align="right" width="150" alt="" src="https://count.getloli.com/get/@:quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 -->
-[<img align="right" width="150" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [<img align="right" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
+[<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying systems engineering at [EAFIT University](https://www.eafit.edu.co/).
