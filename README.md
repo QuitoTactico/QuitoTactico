@@ -49,8 +49,46 @@
   <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
 </p>
 
+## Skills
 
+<div style="display:flex">
+  <p align="left">
+    <h4 align="left">Languages</h4>
+    <a align="left" href="https://skillicons.dev">
+      <img align="left" src="https://skillicons.dev/icons?i=python,cpp,java,c,r,matlab" />
+    </a>
+  </p>
+  
+  <p align="right">
+    <h4 align="right">Software Development</h4>
+    <a align="right" href="https://skillicons.dev">
+      <img align="right" src="https://skillicons.dev/icons?i=django,react,html,css,js" />
+    </a>
+  </p>
+</div>
+
+<br>
+
+
+<div style="display:flex">
+  <p align="left">
+    <h4 align="left">Devops</h4>
+    <a align="left" href="https://skillicons.dev">
+      <img align="left" src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+    </a>
+  </p>
+  
+  <p align="right">
+    <h4 align="right">Misc.</h4>
+    <a align="right" href="https://skillicons.dev">
+      <img align="right" src="https://skillicons.dev/icons?i=git,linux,bash" />
+    </a>
+  </p>
+</div>
+
+<!--
 ![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
+-->
 
 <!--
 ![image](https://www.codewars.com/users/EstebanQuito/badges/large)
@@ -58,6 +96,7 @@
 
 <!-- LMAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
 
+---
 <!-- Dark Mode -->
 <div align="center"> 
   <img height=250 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=transparent&custom_title=QuitoTactico%27s+Github+stats" alt="QuitoTactico's Github stats" />
