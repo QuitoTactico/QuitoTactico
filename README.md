@@ -5,6 +5,77 @@
   <img src="docs/hello.svg">
 </div>
 
+[<img align="right" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
+[<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+- Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
+- Currently studying Computing Science at [EAFIT University](https://www.eafit.edu.co/).
+- I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programming` and `Game Development`.
+- Continuously learning how to code anything in basically any language, but my favourites are `Python`, `C++` and `Java`.
+- I’m looking to collaborate on small machine learning projects and indie game development.
+- If you tell me to put DOOM-64 on your microwave, i'll do it.
+- How to reach me:
+  evergarag@eafit.edu.co /
+  teteban0917@gmail.com
+
+## Skills
+
+<h3 align="center">Languages</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,r,SEPARADOR,c,matlab,arduino,haskell" alt="Languages">
+    </a>
+</p>
+
+<h3 align="center">Software Development</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=django,react,SEPARADOR,mysql,sqlite,SEPARADOR,html,css,scss,js,ts,SEPARADOR,bootstrap,mui" alt="Software Development">
+    </a>
+</p>
+
+<h3 align="center">DevOps</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,SEPARADOR,gcp,SEPARADOR,azure" alt="DevOps">
+    </a>
+</p>
+
+<h3 align="center">Miscelaneous</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,linux,kali,ubuntu,bash,powershell" alt="Miscellaneous">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=notion,md,cmake,npm,yarn" alt="Miscellaneous">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bots,opencv,raspberrypi,tensorflow" alt="Miscellaneous">
+    </a>
+</p>
+<p align="center">
+    <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
+</p>
+
+<br>
+
+---
+
+<div align="center"> 
+  <img height=250 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=transparent&custom_title=QuitoTactico%27s+Github+stats" alt="QuitoTactico's Github stats" />
+  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=8&line_height=0.5&hide=HTML&hide_title=true&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
+  <!-- Donut
+  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=6&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats" alt="QuitoTactico's Language stats" />
+  -->
+</div>
+
+
+<!-- ------------------------------- TRASH --------------------------------------- -->
+
 <!-- 
 [<img align="left" height="50" src="docs/hello.svg">](https://github.com/QuitoTactico)
 -->
@@ -12,20 +83,6 @@
 ![Counter](https://count.akame.moe/@quitotactico)
 [<img align="right" width="150" alt="" src="https://count.getloli.com/get/@:quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 -->
-[<img align="right" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
-[<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-- Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
-- Currently studying systems engineering at [EAFIT University](https://www.eafit.edu.co/).
-- I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programming` and `Game Development`.
-- Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
-- I’m looking to collaborate on small machine learning projects and indie game development.
-
-- If you tell me to put DOOM-64 on your microwave, i'll do it.
-- How to reach me:
-  evergarag@eafit.edu.co /
-  teteban0917@gmail.com
-
 
 <!--
 <div style="display: flex; justify-content: space-between; width: 100%;">
@@ -44,47 +101,13 @@
 [<img align="left" height="50" src="https://www.codewars.com/users/EstebanQuito/badges/large">](https://www.codewars.com/users/EstebanQuito/)
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 -->
-
-<p align="center">
-  <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
-</p>
-
-## Skills
-
-<div style="display:flex">
-  <p align="left">
-    <h4 align="left">Languages</h4>
-    <a align="left" href="https://skillicons.dev">
-      <img align="left" src="https://skillicons.dev/icons?i=python,cpp,java,c,r,matlab" />
-    </a>
-  </p>
-  
-  <p align="right">
-    <h4 align="right">Software Development</h4>
-    <a align="right" href="https://skillicons.dev">
-      <img align="right" src="https://skillicons.dev/icons?i=django,react,html,css,js" />
-    </a>
-  </p>
-</div>
-
-<br>
+<!-- 
+Liar: https://github-readme-stats.anuraghazra1.vercel.app/api?
+True: https://github-readme-stats.vercel.app/api?
+Rick: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
+-->
 
 
-<div style="display:flex">
-  <p align="left">
-    <h4 align="left">Devops</h4>
-    <a align="left" href="https://skillicons.dev">
-      <img align="left" src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-    </a>
-  </p>
-  
-  <p align="right">
-    <h4 align="right">Misc.</h4>
-    <a align="right" href="https://skillicons.dev">
-      <img align="right" src="https://skillicons.dev/icons?i=git,linux,bash" />
-    </a>
-  </p>
-</div>
 
 <!--
 ![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
@@ -96,20 +119,43 @@
 
 <!-- LMAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
 
----
-<!-- Dark Mode -->
-<div align="center"> 
-  <img height=250 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&line_height=28&hide_border=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=transparent&custom_title=QuitoTactico%27s+Github+stats" alt="QuitoTactico's Github stats" />
-  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=8&line_height=0.5&hide=HTML&hide_title=true&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
-  <!-- Donut
-  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=6&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats" alt="QuitoTactico's Language stats" />
-  -->
+
+<!--
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <div style="display: flex; align-items: center;">
+        <b style="margin-right: 10px;">Languages</b>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=python,cpp,java,c,r,matlab" alt="Languages">
+        </a>
+    </div>
+    <div style="display: flex; align-items: center;">
+        <b style="margin-right: 10px;">DevOps</b>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=aws,gcp,azure" alt="DevOps">
+        </a>
+    </div>
 </div>
 
-<!-- 
-Liar: https://github-readme-stats.anuraghazra1.vercel.app/api?
-True: https://github-readme-stats.vercel.app/api?
-Rick: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
+<br>
+  
+<div style="display: flex; justify-content: space-between;">
+    <div style="display: flex; width:100%;  justify-content: space-between;">
+        <b align="left" style="margin-right: 10px;">Software Development</b>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=django,react,html,css,js" alt="Software Development">
+        </a>
+        <a align="right" href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,linux,bash" alt="Miscellaneous" style="margin-right: 10px;">
+        </a>
+        <b align="right" style="margin-right: 10px;">Misc.</b>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <p style="text-align: left;">Texto a la izquierda</p>
+    <p style="text-align: right;">Texto a la derecha</p>
+</div>
+
 -->
 
 <!-- Light Mode -->
