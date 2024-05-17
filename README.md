@@ -18,7 +18,7 @@
   evergarag@eafit.edu.co /
   teteban0917@gmail.com
 
-## Skills
+---
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -60,8 +60,6 @@
 <p align="center">
     <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
 </p>
-
-<br>
 
 ---
 
