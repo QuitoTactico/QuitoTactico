@@ -13,7 +13,7 @@
 - I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programming` and `Game Development`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `C++` and `Java`.
 - I’m looking to collaborate on small machine learning projects and indie game development.
-- If you tell me to put DOOM-64 on your microwave, i'll do it.
+<!-- - If you tell me to put DOOM-64 on your microwave, i'll do it. -->
 - How to reach me:
   evergarag@eafit.edu.co /
   teteban0917@gmail.com
