@@ -30,7 +30,7 @@
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django,react,SEPARADOR,mysql,sqlite,SEPARADOR,html,css,scss,js,ts,SEPARADOR,bootstrap,mui" alt="Software Development">
+        <img src="https://skillicons.dev/icons?i=django,react,SEPARADOR,mysql,sqlite,postgres,SEPARADOR,html,css,scss,js,ts,SEPARADOR,bootstrap,mui" alt="Software Development">
     </a>
 </p>
 
