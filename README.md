@@ -58,7 +58,7 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://www.codewars.com/users/EstebanQuito/badges/large">
+    <img src="https://www.codewars.com/users/QuitoTactico/badges/large">
 </p>
 
 ---
