@@ -61,6 +61,12 @@
     <a href='https://www.codewars.com/users/QuitoTactico'><img src="https://www.codewars.com/users/QuitoTactico/badges/large"></a>
 </p>
 
+<div align="center">
+  <a href='https://www.codewars.com/users/QuitoTactico'>
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=quitotactico&theme=dark" alt="Github Readme Codewars" />
+  </a>
+</div>
+
 ---
 
 <div align="center"> 
