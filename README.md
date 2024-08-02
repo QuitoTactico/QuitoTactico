@@ -63,7 +63,7 @@
 
 <div align="center">
   <a href='https://www.codewars.com/users/QuitoTactico'>
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=quitotactico&theme=dark" alt="Github Readme Codewars" />
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=QuitoTactico&theme=dark" alt="Github Readme Codewars" />
   </a>
 </div>
 
