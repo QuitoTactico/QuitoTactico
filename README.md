@@ -57,9 +57,12 @@
         <img src="https://skillicons.dev/icons?i=bots,opencv,raspberrypi,tensorflow" alt="Miscellaneous">
     </a>
 </p>
+
+<!-- 
 <p align="center">
     <a href='https://www.codewars.com/users/QuitoTactico'><img src="https://www.codewars.com/users/QuitoTactico/badges/large"></a>
 </p>
+-->
 
 <div align="center">
   <a href='https://www.codewars.com/users/QuitoTactico'>
@@ -76,6 +79,8 @@
   <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=6&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats" alt="QuitoTactico's Language stats" />
   -->
 </div>
+
+[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=QuitoTactico&theme=juicyfresh&column=-1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- ------------------------------- TRASH --------------------------------------- -->
