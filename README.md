@@ -23,14 +23,25 @@
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,java,r,SEPARADOR,c,matlab,arduino,haskell" alt="Languages">
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,SEPARADOR,c,php,r,arduino" alt="Languages">
     </a>
 </p>
 
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=django,react,SEPARADOR,mysql,sqlite,postgres,SEPARADOR,html,css,scss,js,ts,SEPARADOR,bootstrap,mui" alt="Software Development">
+      <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,react,SEPARADOR,html,css,js,ts" alt="Software Development">
+      <br>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,SEPARADOR,bootstrap,mui,scss" alt="Software Development">
+      <!-- PYRAMID
+      <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" alt="Software Development">
+      <br>
+      <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,react" alt="Software Development">
+      <br>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="Software Development">
+      <br>
+      <img src="https://skillicons.dev/icons?i=bootstrap,mui" alt="Software Development">
+      -->
     </a>
 </p>
 
@@ -76,7 +87,7 @@
   
   <img height=249 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&rank_icon=percentile&card_width=300px&exclude_repo=github-readme-stats&theme=dark&line_height=30&custom_title=QuitoTactico%27s+Github+stats" alt="QuitoTactico's Github stats" />
   
-  <img height=249 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=8&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
+  <img height=249 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&size_weight=0.35&count_weight=0.65&card_width=350&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
 
   <!-- With HTML
   <img height=249 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=8&hide_title=true&role=owner,collaborator&theme=dark&size_weight=0.2&count_weight=0.&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
