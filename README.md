@@ -73,9 +73,8 @@
 ---
 
 <div align="center"> 
-  <img height=250 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&line_height=28&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=dark&custom_title=QuitoTactico%27s+Github+stats" alt="QuitoTactico's Github stats" />
-  
-  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=8&line_height=0.5&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
+  <img height=249 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&rank_icon=percentile&card_width=1px&exclude_repo=github-readme-stats&theme=dark&custom_title=QuitoTactico%27s+Github+stats" alt="QuitoTactico's Github stats" />
+  <img height=249 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=8&line_height=0.5&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&exclude_repo=frontend-references&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
   
   <!-- Donut
   <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=6&hide=HTML&hide_border=true&role=owner,collaborator&theme=transparent&custom_title=QuitoTactico%27s+Language+stats" alt="QuitoTactico's Language stats" />
