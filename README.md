@@ -31,8 +31,6 @@
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,react,SEPARADOR,html,css,js,ts" alt="Software Development">
-      <br>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,SEPARADOR,bootstrap,mui,scss" alt="Software Development">
       <!-- PYRAMID
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" alt="Software Development">
       <br>
@@ -43,6 +41,10 @@
       <img src="https://skillicons.dev/icons?i=bootstrap,mui" alt="Software Development">
       -->
     </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,SEPARADOR,bootstrap,mui,scss" alt="Software Development">
 </p>
 
 <h3 align="center">DevOps</h3>
