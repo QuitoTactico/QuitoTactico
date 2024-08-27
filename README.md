@@ -16,6 +16,18 @@
 - How to reach me:
   evergarag@eafit.edu.co /
   teteban0917@gmail.com
+
+<details>
+  <summary>
+    My love For Python 🐍:
+  </summary>  
+I have an extensive repertoire of over 400 Python scripts, focused on competitive programming, web development, automation, API consumption, and the use of artificial intelligence for various tasks.
+
+I have used Python to automate tasks such as file manipulation and data processing, creating scripts that enhance efficiency in repetitive processes. I have also developed data analysis projects, like an anime recommendation system based on the MyAnimeList API, and participated in game development, notably creating a Dungeons & Dragons game generator with AI and voice recognition.
+
+Additionally, I have worked on web application development using Django, including a movie website and an optimized route system for Medellín. In the field of artificial intelligence, I have implemented models for facial and voice recognition, and I have also explored home automation with a smart curtain system that responds to external light. My experience with Python is diverse, focusing on creating practical and innovative solutions while solving logical challenges that I find satisfying.
+</details>
+
 <!-- - If you tell me to put DOOM-64 on your microwave, i'll do it. -->
 
 ---
