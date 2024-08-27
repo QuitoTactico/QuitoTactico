@@ -21,6 +21,7 @@
   <summary>
     My love For Python 🐍:
   </summary>  
+  
 I have an extensive repertoire of over 400 Python scripts, focused on competitive programming, web development, automation, API consumption, and the use of artificial intelligence for various tasks.
 
 I have used Python to automate tasks such as file manipulation and data processing, creating scripts that enhance efficiency in repetitive processes. I have also developed data analysis projects, like an anime recommendation system based on the MyAnimeList API, and participated in game development, notably creating a Dungeons & Dragons game generator with AI and voice recognition.
