@@ -11,7 +11,7 @@
 - Currently studying Computing Science at [EAFIT University](https://www.eafit.edu.co/).
 - I’m actually interested in `Software Development`, `Data Analysis`, `Machine Learning` and `Competitive Programming`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `C++` and `Java`.
-- I’m looking to collaborate on small machine learning projects and indie game development.
+- I’m looking to collaborate on back-end development or data analysis projects.
 - How to reach me:
 [<img align="right" width="160" alt="" src="https://github.com/user-attachments/assets/44cff177-6b12-41f9-8521-741d43b67908">](https://www.textstudio.com/)
   - evergarag@eafit.edu.co
