@@ -36,14 +36,14 @@ Additionally, I have worked on web application development using Django, includi
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,SEPARADOR,c,php,r,arduino" alt="Languages">
+        <img src="https://skillicons.dev/icons?i=python,cpp,php,java,SEPARADOR,c,r,arduino,matlab" alt="Languages">
     </a>
 </p>
 
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,react,SEPARADOR,html,css,js,ts" alt="Software Development">
+      <img src="https://skillicons.dev/icons?i=django,laravel,react,fastapi,SEPARADOR,html,css,js,ts" alt="Software Development">
       <!-- PYRAMID
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" alt="Software Development">
       <br>
