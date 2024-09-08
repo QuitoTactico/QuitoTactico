@@ -10,12 +10,13 @@
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying Computing Science at [EAFIT University](https://www.eafit.edu.co/).
-- I’m actually interested in `Data Analysis`, `Machine Learning`, `Competitive Programming` and `Game Development`.
+- I’m actually interested in `Software Development`, `Data Analysis`, `Machine Learning` and `Competitive Programming`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `C++` and `Java`.
 - I’m looking to collaborate on small machine learning projects and indie game development.
 - How to reach me:
-  evergarag@eafit.edu.co /
-  teteban0917@gmail.com
+  - evergarag@eafit.edu.co
+  - teteban0917@gmail.com
+  - www.linkedin.com/in/esteban-vergara-giraldo
 
 <details>
   <summary>
