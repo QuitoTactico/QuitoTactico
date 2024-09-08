@@ -6,7 +6,6 @@
 </div>
 
 [<img align="right" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
-[<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying Computing Science at [EAFIT University](https://www.eafit.edu.co/).
@@ -14,8 +13,10 @@
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `C++` and `Java`.
 - I’m looking to collaborate on small machine learning projects and indie game development.
 - How to reach me:
+[<img align="right" width="160" alt="" src="https://github.com/user-attachments/assets/44cff177-6b12-41f9-8521-741d43b67908">](https://www.textstudio.com/)
   - evergarag@eafit.edu.co
   - teteban0917@gmail.com
+[<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   - www.linkedin.com/in/esteban-vergara-giraldo
 
 <details>
