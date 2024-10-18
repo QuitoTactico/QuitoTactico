@@ -45,7 +45,7 @@ Additionally, I have worked on web application development using Django, includi
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,laravel,react,fastapi,SEPARADOR,html,css,js,ts" alt="Software Development">
+      <img src="https://skillicons.dev/icons?i=django,laravel,react,flask,SEPARADOR,html,css,js,ts" alt="Software Development">
       <!-- PYRAMID
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" alt="Software Development">
       <br>
@@ -65,24 +65,24 @@ Additionally, I have worked on web application development using Django, includi
 <h3 align="center">DevOps</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,SEPARADOR,gcp,SEPARADOR,azure" alt="DevOps">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,SEPARADOR,docker,kubernetes,githubactions" alt="DevOps">
     </a>
 </p>
 
 <h3 align="center">Miscelaneous</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,linux,kali,ubuntu,bash,powershell" alt="Miscellaneous">
+        <img src="https://skillicons.dev/icons?i=git,windows,linux,kali,ubuntu,bash,powershell" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=notion,md,cmake,npm,yarn" alt="Miscellaneous">
+        <img src="https://skillicons.dev/icons?i=replit,notion,md,cmake,npm,yarn" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bots,opencv,raspberrypi,tensorflow" alt="Miscellaneous">
+        <img src="https://skillicons.dev/icons?i=tensorflow,bots,opencv,regex,raspberrypi" alt="Miscellaneous">
     </a>
 </p>
 
