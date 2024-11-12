@@ -45,7 +45,7 @@ Additionally, I have worked on web application development using Django, includi
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,laravel,react,flask,SEPARADOR,html,css,js,ts" alt="Software Development">
+      <img src="https://skillicons.dev/icons?i=django,laravel,express,flask,nodejs,SEPARADOR,react,html,css,js,ts" alt="Software Development">
       <!-- PYRAMID
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" alt="Software Development">
       <br>
@@ -102,9 +102,13 @@ Additionally, I have worked on web application development using Django, includi
 
 <div align="center"> 
   
-  <img height=270 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&rank_icon=percentile&card_width=300px&exclude_repo=github-readme-stats&theme=dark&line_height=30&custom_title=QuitoTactico%27s+Github+stats" alt="QuitoTactico's Github stats" />
+  <img height=270 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&rank_icon=percentile&card_width=300px&theme=dark&line_height=30&custom_title=QuitoTactico%27s+Github+stats&number_format=long&role=owner,collaborator" alt="QuitoTactico's Github stats" />
   
+  <img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&card_width=310&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
+  <!--
   <img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&size_weight=0.35&count_weight=0.65&card_width=310&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
+  
+  -->
 
   <!-- With HTML
   <img height=249 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=8&hide_title=true&role=owner,collaborator&theme=dark&size_weight=0.2&count_weight=0.&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
@@ -115,7 +119,11 @@ Additionally, I have worked on web application development using Django, includi
   -->
 </div>
 
-[![Profile Trophies](https://github-profile-trophy.vercel.app/?username=QuitoTactico&theme=juicyfresh&column=-1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href=['https://www.codewars.com/users/QuitoTactico](https://github.com/ryo-ma/github-profile-trophy)'>
+    <img src="https://github-profile-trophy.vercel.app/?username=QuitoTactico&theme=juicyfresh&column=-1&no-frame=true&no-bg=true&&title=-Reviews" alt="Profile Trophies" />
+  </a>
+</div>
 
 
 <!-- ------------------------------- TRASH --------------------------------------- -->
