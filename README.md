@@ -16,7 +16,7 @@
 [<img align="right" width="160" alt="" src="https://github.com/user-attachments/assets/44cff177-6b12-41f9-8521-741d43b67908">](https://www.textstudio.com/)
   - evergarag@eafit.edu.co
   - teteban0917@gmail.com
-[<img align="right" width="160" alt="" src="https://count.getloli.com/get/@:quitotactico?theme=booru-lewd&offset=-10">](https://count.getloli.com/) <!-- [<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+[<img align="right" width="160" alt="" src="https://count.getloli.com/get/@:quitotactico?theme=booru-lewd&darkmode=0&offset=-10">](https://count.getloli.com/) <!-- [<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
   - www.linkedin.com/in/esteban-vergara-giraldo
 
 <details>
@@ -45,7 +45,7 @@ Additionally, I have worked on web application development using Django, includi
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,laravel,flask,express,nodejs,SEPARADOR,react,html,css,js,ts" alt="Software Development">
+      <img src="https://skillicons.dev/icons?i=django,laravel,flask,express,nodejs,SEPARADOR,html,css,bootstrap,mui,scss" alt="Software Development">
       <!-- PYRAMID
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" alt="Software Development">
       <br>
@@ -59,13 +59,13 @@ Additionally, I have worked on web application development using Django, includi
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,SEPARADOR,bootstrap,mui,scss,SEPARADOR" alt="Software Development">
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,SEPARADOR,postman,react,js,ts" alt="Software Development">
 </p>
 
 <h3 align="center">DevOps</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,SEPARADOR,docker,kubernetes,githubactions" alt="DevOps">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,SEPARADOR,docker,githubactions" alt="DevOps">
     </a>
 </p>
 
@@ -86,6 +86,51 @@ Additionally, I have worked on web application development using Django, includi
     </a>
 </p>
 
+<details>
+  <summary align="center">
+    <h3 align="center">Want to learn:</h3>
+  </summary>  
+  
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=scala,go,cs,dotnet,bun,haskell" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=fastapi,vue,htmx,wordpress,jquery,prisma" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongodb,cassandra,graphql,kafka,dynamodb" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=kubernetes,azure,vercel,jenkins,nginx" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=blender,unity,unreal,selenium" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mint,arch,debian" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=gitlab,latex,obsidian" alt="Wanna learn">
+      </a>
+  </p>
+  
+</details>
+
+---
+
 <!-- 
 <p align="center">
     <a href='https://www.codewars.com/users/QuitoTactico'><img src="https://www.codewars.com/users/QuitoTactico/badges/large"></a>
@@ -105,6 +150,8 @@ Additionally, I have worked on web application development using Django, includi
   <img height=270 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&rank_icon=percentile&card_width=300px&theme=dark&line_height=30&custom_title=QuitoTactico%27s+Github+stats&number_format=long&role=owner,collaborator" alt="QuitoTactico's Github stats" />
   
   <img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&card_width=310&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
+
+
   <!--
   <img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&size_weight=0.35&count_weight=0.65&card_width=310&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
   
