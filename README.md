@@ -1,5 +1,5 @@
 
-<!-- Hi XD, what are you doing here? -->
+<!-- Hiii, what are you doing here? XD -->
 
 <div align="center">
   <img src="docs/hello.svg">
@@ -9,14 +9,14 @@
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Currently studying Computing Science at [EAFIT University](https://www.eafit.edu.co/).
-- I’m actually interested in `Software Development`, `Data Analysis`, `Machine Learning` and `Competitive Programming`.
-- Continuously learning how to code anything in basically any language, but my favourites are `Python`, `C++` and `Java`.
-- I’m looking to collaborate on back-end development or data analysis projects.
+- I’m actually interested in `Data Engineering`, `Machine Learning`, `Software Development` and `Competitive Programming`.
+- Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
+- I’m looking to collaborate on data engineering projects or back-end development.
 - How to reach me:
 [<img align="right" width="160" alt="" src="https://github.com/user-attachments/assets/44cff177-6b12-41f9-8521-741d43b67908">](https://www.textstudio.com/)
   - evergarag@eafit.edu.co
   - teteban0917@gmail.com
-[<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[<img align="right" width="160" alt="" src="https://count.getloli.com/get/@:quitotactico?theme=booru-lewd&offset=-10">](https://count.getloli.com/) <!-- [<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
   - www.linkedin.com/in/esteban-vergara-giraldo
 
 <details>
@@ -45,7 +45,7 @@ Additionally, I have worked on web application development using Django, includi
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,laravel,express,flask,nodejs,SEPARADOR,react,html,css,js,ts" alt="Software Development">
+      <img src="https://skillicons.dev/icons?i=django,laravel,flask,express,nodejs,SEPARADOR,react,html,css,js,ts" alt="Software Development">
       <!-- PYRAMID
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" alt="Software Development">
       <br>
@@ -59,7 +59,7 @@ Additionally, I have worked on web application development using Django, includi
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,SEPARADOR,bootstrap,mui,scss" alt="Software Development">
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,SEPARADOR,bootstrap,mui,scss,SEPARADOR" alt="Software Development">
 </p>
 
 <h3 align="center">DevOps</h3>
