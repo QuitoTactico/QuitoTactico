@@ -38,7 +38,7 @@ Additionally, I have worked on web application development using Django, includi
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,php,java,SEPARADOR,c,r,arduino,matlab" alt="Languages">
+        <img src="https://skillicons.dev/icons?i=python,java,php,cpp,SEPARADOR,c,r,arduino,matlab" alt="Languages">
     </a>
 </p>
 
