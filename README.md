@@ -14,10 +14,11 @@
 - I’m looking to collaborate on data engineering projects or back-end development.
 - How to reach me:
 [<img align="right" width="160" alt="" src="https://github.com/user-attachments/assets/44cff177-6b12-41f9-8521-741d43b67908">](https://www.textstudio.com/)
-  - evergarag@eafit.edu.co
-  - teteban0917@gmail.com
+  - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> evergarag@eafit.edu.co
+  - <img alt="" width="13" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAxCQRtgtb4Pp_bSwN5567dU_M-aBifjuh7g&s"> esteban.vergara@globant.com
 [<img align="right" width="155" alt="" src="https://count.getloli.com/get/@:quitotactico?theme=booru-lewd&darkmode=0&offset=-9">](https://count.getloli.com/) <!-- [<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
-  - www.linkedin.com/in/esteban-vergara-giraldo
+  - <img alt="" width="13" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png"> teteban0917@gmail.com
+  - <img alt="" width="13" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"> www.linkedin.com/in/esteban-vergara-giraldo
 
 <details>
   <summary align="center">
