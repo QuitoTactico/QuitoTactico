@@ -29,61 +29,123 @@ I have an extensive repertoire of over 450 Python scripts, focused on competitiv
 
 I have used Python to automate tasks such as file manipulation and data processing, creating scripts that enhance efficiency in repetitive processes, like an RPA for [comfortable listening of YouTube playlists](https://github.com/QuitoTactico/NOVVAE). I have also developed data analysis projects, like an [anime recommendation system](https://github.com/QuitoTactico/myanimelist-sorting) based on the MyAnimeList API, developed solutions to many [competitive programming problems in Codewars](https://github.com/QuitoTactico/PYTHON/tree/main/CODEWARS), and participated in game development, notably creating a [Dungeons & Dragons game generator](https://github.com/QuitoTactico/DnD-AI) with interactive map and AI usage for image generation and natural language processing, my biggest project to date.
 
-Additionally, I have worked on web application development using Django, including a [movie website](https://github.com/QuitoTactico/moviereviewsproject), a [numeric analysis and linear regression interactive graphicator](https://github.com/QuitoTactico/Proyecto_analisis), an [enterprise data interactive graphicator](https://github.com/QuitoTactico/proyecto-sinfo) and a [tech learning route generator](https://github.com/QuitoTactico/SoftServe-Academy) which i'm currently developing. Also on framework-less applications, like an [shortest route calculator/graphicator system for Medellín's streets](https://github.com/QuitoTactico/ST0245-001), with a [Medellín's Metro version](https://github.com/OmdenaAI/eafit-colombia-transportation-subway) developed in an international team. In the field of artificial intelligence, I have implemented models for [facial](https://github.com/QuitoTactico/Proyecto-ReconocimientoDeRostros) and [voice](https://github.com/QuitoTactico/PYTHON/tree/main/Reconocedor%20de%20voz) recognition, and I have also explored home automation with a [smart curtain system](https://github.com/QuitoTactico/Proyecto-CortinasInteligentes) that responds to external light. My experience with Python is diverse, focusing on creating practical and innovative solutions while solving logical challenges that I find satisfying.
+Additionally, I have worked on web application development using Django, including a [movie website](https://github.com/QuitoTactico/moviereviewsproject), a [numeric analysis and linear regression interactive graphicator](https://github.com/QuitoTactico/Proyecto_analisis), an [enterprise data interactive graphicator](https://github.com/QuitoTactico/proyecto-sinfo) and a [tech learning route generator](https://github.com/QuitoTactico/SoftServe-Academy) that is a project we made for [SoftServe Inc.](https://www.softserveinc.com/en-us), a real client. On non-opinionated frameworks, I made an [Online Store backend using Flask](https://github.com/QuitoTactico/Flask-API-REST-App) (the usual, but with swagger, smorest, migrations and JWT), also a [P2P Chord-based network](https://github.com/QuitoTactico/P2P-Chord), and a manual [Hadoop Distributed Filesystem (HDFS)](https://github.com/QuitoTactico/HDFS). Also on framework-less applications, like an [shortest route calculator/graphicator system for Medellín's streets](https://github.com/QuitoTactico/ST0245-001), with a [Medellín's Metro version](https://github.com/OmdenaAI/eafit-colombia-transportation-subway) developed in an international team. 
+
+In the field of artificial intelligence, I have implemented models for [facial](https://github.com/QuitoTactico/Proyecto-ReconocimientoDeRostros) and [voice](https://github.com/QuitoTactico/PYTHON/tree/main/Reconocedor%20de%20voz) recognition, and I have also explored home automation with a [smart curtain system](https://github.com/QuitoTactico/Proyecto-CortinasInteligentes) that responds to external light, and for Data Engineering i've worked on a [Covid data consumption and analysis](https://github.com/QuitoTactico/HiveQL-Covid-analysis) with all the AWS stack. 
+
+My experience with Python is diverse, focusing on creating practical and innovative solutions while solving logical challenges that I find satisfying.
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,numpy,matplotlib,seaborn,bokeh" alt="Miscellaneous">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest,bots,opencv,regex,raspberrypi" alt="Miscellaneous">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,huggingface,gemini,langchain" alt="Miscellaneous">
+    </a>
+</p>
 </details>
 
 <!-- - If you tell me to put DOOM-64 on your microwave, i'll do it. -->
 
 ---
 
+<!-- 
+NEW PROVIDER: https://github.com/lelouchfr/skill-icons?tab=readme-ov-file#icons-list
+https://go-skill-icons.vercel.app/api/icons?i=
+
+PAST PROVIDER: https://skillicons.dev
+https://skillicons.dev/icons?i=
+-->
+
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,php,cpp,SEPARADOR,c,r,arduino,matlab" alt="Languages">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,php,cpp,SEPARADOR,c,r,arduino,matlab" alt="Languages">
     </a>
 </p>
 
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,laravel,flask,express,nodejs,SEPARADOR,html,css,bootstrap,mui,scss" alt="Software Development">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,laravel,flask,express,nodejs,SEPARADOR,html,css,react,js,ts" alt="Software Development">
       <!-- PYRAMID
-      <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" alt="Software Development">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,js,ts" alt="Software Development">
       <br>
-      <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,react" alt="Software Development">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,laravel,react" alt="Software Development">
       <br>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="Software Development">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgres" alt="Software Development">
       <br>
-      <img src="https://skillicons.dev/icons?i=bootstrap,mui" alt="Software Development">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,mui" alt="Software Development">
       -->
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,SEPARADOR,postman,react,js,ts" alt="Software Development">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy,swagger,grpc,json,yaml,SEPARADOR,insomnia,postman,wireshark,bootstrap,mui" alt="Software Development">
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgres,mongodb,SEPARADOR,npm,pnpm,yarn,composer" alt="Software Development">
+</p>
+
+<h3 align="center">Data</h3>
+<!--
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark,spark,sparksql,hadoop,hive,athena,glue,emr,s3,airflow,databricks,snowflake,elasticsearch" alt="Data Engineering">
+    </a>
+</p>
+-->
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark,spark,sparksql,hadoop,hive" alt="Data Engineering">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=athena,glue,emr" alt="Data Engineering">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=s3,airflow,databricks,snowflake,elasticsearch" alt="Data Engineering">
+    </a>
 </p>
 
 <h3 align="center">DevOps</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,SEPARADOR,docker,githubactions" alt="DevOps">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,SEPARADOR,docker,githubactions" alt="DevOps">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,eks,emr,SEPARADOR,tomcat,playwright,googleanalytics" alt="DevOps">
     </a>
 </p>
 
 <h3 align="center">Miscelaneous</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,windows,linux,kali,ubuntu,bash,powershell" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=git,windows,linux,kali,ubuntu,bash,powershell" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=replit,notion,md,cmake,npm,yarn" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=replit,notion,md,googlecolab,jupyter,figma" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tensorflow,bots,opencv,regex,raspberrypi" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,excel,jira,lucidchart,miro,slack,teams" alt="Miscellaneous">
     </a>
 </p>
 
@@ -94,37 +156,47 @@ Additionally, I have worked on web application development using Django, includi
   
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=scala,go,cs,dotnet,bun,haskell" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=scala,go,cs,dotnet,bun,haskell,lua,scratch,holyc" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=fastapi,vue,htmx,wordpress,jquery,prisma" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,vue,spring,htmx,wordpress,drupal,jquery,prisma" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongodb,cassandra,graphql,kafka,dynamodb" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,cassandra,graphql,apollo,kafka,dynamodb,mariadb" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=kubernetes,azure,vercel,jenkins,nginx" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes,azure,azuredevops,vercel,jenkins" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=blender,unity,unreal,selenium" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,lambda,lighthouse,salesforce,cloudflare" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mint,arch,debian" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,unity,unreal,pbi" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=gitlab,latex,obsidian" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=renpy,selenium,pytorch,pygame" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=mint,arch,debian,hyprland" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,latex,obsidian" alt="Wanna learn">
       </a>
   </p>
   
@@ -169,8 +241,9 @@ Additionally, I have worked on web application development using Django, includi
 
 <div align="center">
   <a href=['https://www.codewars.com/users/QuitoTactico](https://github.com/ryo-ma/github-profile-trophy)'>
-    <img src="https://github-profile-trophy.vercel.app/?username=QuitoTactico&theme=juicyfresh&column=-1&no-frame=true&no-bg=true&&title=-Reviews" alt="Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=QuitoTactico&theme=juicyfresh&column=-1&no-frame=true&no-bg=true&title=-Reviews" alt="Profile Trophies" />
   </a>
+  <!-- &rank=-C,-B -->
 </div>
 
 
@@ -225,13 +298,13 @@ Rick: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
     <div style="display: flex; align-items: center;">
         <b style="margin-right: 10px;">Languages</b>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=python,cpp,java,c,r,matlab" alt="Languages">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,c,r,matlab" alt="Languages">
         </a>
     </div>
     <div style="display: flex; align-items: center;">
         <b style="margin-right: 10px;">DevOps</b>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=aws,gcp,azure" alt="DevOps">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure" alt="DevOps">
         </a>
     </div>
 </div>
@@ -242,10 +315,10 @@ Rick: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
     <div style="display: flex; width:100%;  justify-content: space-between;">
         <b align="left" style="margin-right: 10px;">Software Development</b>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=django,react,html,css,js" alt="Software Development">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=django,react,html,css,js" alt="Software Development">
         </a>
         <a align="right" href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,linux,bash" alt="Miscellaneous" style="margin-right: 10px;">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,bash" alt="Miscellaneous" style="margin-right: 10px;">
         </a>
         <b align="right" style="margin-right: 10px;">Misc.</b>
     </div>
