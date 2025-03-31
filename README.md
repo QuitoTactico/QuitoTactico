@@ -8,7 +8,7 @@
 [<img align="right" height="50" src="docs/DnD_right.png">](https://github.com/QuitoTactico/DnD-AI)
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
-- Software Engineering student at [EAFIT University](https://www.eafit.edu.co/).
+- Computer Science student at [EAFIT University](https://www.eafit.edu.co/).
 - I’m actually interested in `Data Engineering`, `Machine Learning`, `Software Development` and `Competitive Programming`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
 - Currently [Learning data engineering](https://github.com/QuitoTactico/Courses-and-Certifications) on Globant as a Trainee, and [translating the visual novel of Plastic Memories](https://github.com/enoshima-memo-team) with a team.
@@ -97,7 +97,7 @@ https://skillicons.dev/icons?i=
       <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgres,mongodb,SEPARADOR,npm,pnpm,yarn,composer" alt="Software Development">
 </p>
 
-<h3 align="center">Data</h3>
+<h3 align="center">Data Engineering</h3>
 <!--
 <p align="center">
     <a href="https://skillicons.dev">
