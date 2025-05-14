@@ -153,7 +153,13 @@ https://skillicons.dev/icons?i=
   
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,redis,elasticsearch,SEPARADOR,go,SEPARADOR,snowflake,databricks,kubernetes" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,lambda,elasticsearch,terraform,cloudwatch" alt="Wanna learn">
+      </a>
+  </p>
+
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb,redis,snowflake,databricks,kubernetes,go" alt="Wanna learn">
       </a>
   </p>
   
@@ -176,17 +182,12 @@ https://skillicons.dev/icons?i=
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cassandra,graphql,apollo,kafka,dynamodb,mariadb" alt="Wanna learn">
-      </a>
-  </p>
-  <p align="center">
-      <a href="https://skillicons.dev">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,azuredevops,vercel,nginx,jenkins,lighthouse" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda,salesforce,cloudflare,dbtlabs" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=cassandra,graphql,apollo,kafka,mariadb" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
@@ -202,6 +203,11 @@ https://skillicons.dev/icons?i=
   <p align="center">
       <a href="https://skillicons.dev">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=mint,arch,debian,hyprland" alt="Wanna learn">
+      </a>
+  </p>
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=salesforce,cloudflare,dbtlabs" alt="Wanna learn">
       </a>
   </p>
   <p align="center">
