@@ -9,10 +9,11 @@
 
 - Hi!, I’m Esteban Vergara Giraldo, or known as @QuitoTactico :shipit:
 - Computer Science student at [EAFIT University](https://www.eafit.edu.co/).
-- I’m actually interested in `Data Engineering`, `Machine Learning`, `Software Development` and `Competitive Programming`.
+- Python Developer Jr. Adv. at [Globant](https://www.globant.com/).
+- I’m currently interested in `Software Development`, `Data Engineering`, `Machine Learning` and `Competitive Programming`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
-- Currently [Learning data engineering](https://github.com/QuitoTactico/Courses-and-Certifications) on Globant as a Trainee, and [translating the visual novel of Plastic Memories](https://github.com/enoshima-memo-team) with a team.
-- I’m looking to collaborate on data engineering projects or back-end development.
+- Currently [Learning deeper AWS suite and data engineering](https://github.com/QuitoTactico/Courses-and-Certifications), and [translating the visual novel of Plastic Memories](https://github.com/enoshima-memo-team) with [a team](https://github.com/enoshima-memo-team).
+- I’m looking to collaborate on back-end development, AI, and data engineering projects.
 - How to reach me:
 [<img align="right" width="160" alt="" src="https://github.com/user-attachments/assets/44cff177-6b12-41f9-8521-741d43b67908">](https://www.textstudio.com/)
   - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> evergarag@eafit.edu.co
