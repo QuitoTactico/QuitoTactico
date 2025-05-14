@@ -152,6 +152,8 @@ https://skillicons.dev/icons?i=
     <h3 align="center">Currently Learning:</h3>
   </summary>  
   
+  <p align="center">(In order)</p>
+  
   <p align="center">
       <a href="https://skillicons.dev">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,lambda,elasticsearch,terraform,cloudwatch" alt="Wanna learn">
