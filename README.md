@@ -156,7 +156,7 @@ https://skillicons.dev/icons?i=
   
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,lambda,elasticsearch,terraform,cloudwatch" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,lambda,elasticsearch,terraform,cloudwatch,grafana" alt="Wanna learn">
       </a>
   </p>
 
