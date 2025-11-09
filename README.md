@@ -51,8 +51,6 @@ My experience with Python is diverse, focusing on creating practical and innovat
 </p>
 </details>
 
-
-
 <details>
   <summary align="center">
      Current Job 🧠:
@@ -76,7 +74,6 @@ Beyond these integrations, I contribute to developing in-situ **Python agents** 
 Beyond professional work, I co-founded and led a **Competitive Programming Club** with close friends, where we spent years studying and experimenting with advanced algorithms, optimization strategies, and data structures. We focused especially on **probabilistic structures** and **specialized sorting algorithms**, which became my personal favorites.
 
 Our club fostered deep algorithmic thinking and collaboration, and we actively shared our insights and findings on **LinkedIn**. Some of these discussions can be seen [on my profile](https://www.linkedin.com/in/esteban-vergara-giraldo/), particularly [this post about the value of competitive programming](https://www.linkedin.com/posts/juan-pablo-jimenez-h_competitive-programming-what-for-in-these-ugcPost-7351272409817112576-p8dA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyBal4B2Ojxv4-ftQF2vuF5wvUQfPf-S9M), which captures part of what we built together.
-
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -109,7 +106,6 @@ Our club fostered deep algorithmic thinking and collaboration, and we actively s
     </a>
 </p>
 </details>
-
 
 <!-- - If you tell me to put DOOM-64 on your microwave, i'll do it. -->
 
@@ -148,9 +144,6 @@ https://skillicons.dev/icons?i=
     </a>
 </p>
 
-
-
-
 <h3 align="center">DevOps</h3>
 <p align="center">
     <a href="https://skillicons.dev">
@@ -188,16 +181,12 @@ https://skillicons.dev/icons?i=
     </a>
 </p>
 
-
-
 <h3 align="center">AI (LLM and other models)</h3>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek,gemini,SEPARADOR,githubcopilot,SEPARADOR,langchain,huggingface,opencv,tensorflow" alt="AI (LLM and other models)">
     </a>
 </p>
-
-
 
 <h3 align="center">Miscellaneous</h3>
 <p align="center">
@@ -220,7 +209,6 @@ https://skillicons.dev/icons?i=
         <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,confluence,slack,teams" alt="Miscellaneous">
     </a>
 </p>
-
 
 <details>
     <summary align="center">
