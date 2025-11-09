@@ -35,7 +35,7 @@ I have used Python to automate tasks such as file manipulation and data processi
 
 Additionally, I have worked on web application development using Django, including a [movie website](https://github.com/QuitoTactico/moviereviewsproject), a [numeric analysis and linear regression interactive graphicator](https://github.com/QuitoTactico/Proyecto_analisis), an [enterprise data interactive graphicator](https://github.com/QuitoTactico/proyecto-sinfo) and a [tech learning route generator](https://github.com/QuitoTactico/SoftServe-Academy) that is a project we made for [SoftServe Inc.](https://www.softserveinc.com/en-us), a real client. With non-opinionated frameworks, I made an [Online Store backend using Flask](https://github.com/QuitoTactico/Flask-API-REST-App) (the usual, but with swagger, smorest, migrations and JWT), also a [P2P Chord-based network](https://github.com/QuitoTactico/P2P-Chord), and a manual [Hadoop Distributed Filesystem (HDFS)](https://github.com/QuitoTactico/HDFS). Also on framework-less applications, like a [shortest route calculator/graphicator system for Medellín's streets](https://github.com/QuitoTactico/ST0245-001), with a [Medellín's Metro version](https://github.com/OmdenaAI/eafit-colombia-transportation-subway) developed along [Omdena Inc.](https://github.com/OmdenaAI), an international team.
 
-In the field of artificial intelligence, I have implemented models for [facial](https://github.com/QuitoTactico/Proyecto-ReconocimientoDeRostros) and [voice](https://github.com/QuitoTactico/PYTHON/tree/main/Reconocedor%20de%20voz) recognition, and I have also explored home automation with a [smart curtain system (RaspberryPI)](https://github.com/QuitoTactico/Proyecto-CortinasInteligentes) that responds to external light, and for Data Engineering i've worked on a [Covid data consumption and analysis](https://github.com/QuitoTactico/HiveQL-Covid-analysis) with all the AWS and PySpark stack, which I'm currently learning deeper in [Globant](https://www.globant.com/) as a tech trainee in my professional internship.
+In the field of artificial intelligence, I have implemented models for [facial](https://github.com/QuitoTactico/Proyecto-ReconocimientoDeRostros) and [voice](https://github.com/QuitoTactico/PYTHON/tree/main/Reconocedor%20de%20voz) recognition, and I have also explored home automation with a [smart curtain system (RaspberryPI)](https://github.com/QuitoTactico/Proyecto-CortinasInteligentes) that responds to external light, and for Data Engineering i've worked on a [Covid data consumption and analysis](https://github.com/QuitoTactico/HiveQL-Covid-analysis) with all the AWS and PySpark stack, which I learnt deeper in [Globant](https://www.globant.com/) as a tech trainee in my professional internship.
 
 My experience with Python is diverse, focusing on creating practical and innovative solutions while solving logical challenges that I find satisfying.
 
@@ -50,6 +50,36 @@ My experience with Python is diverse, focusing on creating practical and innovat
     </a>
 </p>
 </details>
+
+
+
+<details>
+  <summary align="center">
+     Current Job 🧠:
+  </summary>  
+<br>
+
+In my current role at **Globant**, I am part of the **Index/RAG team**, where we develop **AWS-based infrastructure** using **Python Lambda functions** and **CloudFormation stacks** to integrate **OpenSearch** and **Azure AI Search**, enhancing the retrieval capabilities of AI agents.
+
+I design and implement **multimodal data processing pipelines** that handle diverse document types, including a **multilingual OCR system** built with *pytesseract* and *tesseract*, supporting multiple formats and languages. These components are modular and composable, enabling their reuse across multiple infrastructures within the client’s platform.
+
+Alongside my core RAG work, I build **FastAPI-based crawler agents** that aggregate information from **Confluence**, **Jira**, **Azure DevOps**, and other APIs, indexing and structuring it for intelligent retrieval. I also mentor teammates in building similar integrations for **GitHub**, **Bitbucket**, and **Salesforce**, promoting modular and scalable design patterns across the team.
+
+Beyond these integrations, I contribute to developing in-situ **Python agents** that process documents directly within the infrastructure—such as OCR pipelines or data transformers—providing reusable, low-latency solutions for AI-powered applications.
+
+Beyond professional work, I co-founded and led a **Competitive Programming Club** with close friends, where we spent years studying and experimenting with advanced algorithms, optimization strategies, and data structures. We focused especially on **probabilistic structures** and **specialized sorting algorithms**, which became my personal favorites.
+
+Our club fostered deep algorithmic thinking and collaboration, and we actively shared our insights and findings on **LinkedIn**. Some of these discussions can be seen [on my profile](https://www.linkedin.com/in/esteban-vergara-giraldo/), particularly [this post about the value of competitive programming](https://www.linkedin.com/posts/juan-pablo-jimenez-h_competitive-programming-what-for-in-these-ugcPost-7351272409817112576-p8dA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyBal4B2Ojxv4-ftQF2vuF5wvUQfPf-S9M), which captures part of what we built together.
+
+
+</details>
+
+
+
+
+
+
+
 
 <!-- - If you tell me to put DOOM-64 on your microwave, i'll do it. -->
 
