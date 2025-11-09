@@ -1,0 +1,41 @@
+según la lista de cosas que soporta skillicons (te mandé el archivo, léelo), quiero que cambies algunas cosas de puesto en mi readme.
+
+te dejaré el prompt en un archivo también por si tu ventana de contexto no es muy grande
+
+tendrás que borrar esa cosa de los demás sitios en los que esté
+
+te diré lo que quiero que añadas a cada lugar, recuerda limpiar ese ícono de donde sea que estuviera antes
+
+revisa el documento de weas soportadas, para estar seguro de cómo se llaman las cosas
+
+languages: c#
+
+used but not that much (imagina otro nombre):
+matlab, haskell, rust, scala, go, wireshark, material-ui, pnpm, express, scss, tomcat, playwright, locust, googleanalytics, figma, azuredevops, dynamodb, tkinter, kafka, mint, salesforce, latex, nginx, prisma, assembly, azure, drupal, wordpress, elasticsearch, opentelemetry, ollama, miro, microsoftcopilot, overleaf
+
+software development:
+fastAPI, mariadb, .net, unity, lambda, opensearch, cloudformation, azureaisearch, rabbitmq, sqs, jwt
+
+devops:
+kubernetes, grafana, terraform, cloudwatch, sonarqube
+
+miscellaneous:
+opengl, opentk (el que esté, ojalá opentk), make, toml, yaml, json, confluence, tesseract, pytesseract, leetcode, ffmpeg, jira, mermaid, powerpoint, wsl
+
+AI (LLM and other models): (crea una sección nueva arriba de miscellaneous)
+claude, chatgpt, githubcopilot, deepseek, gemini, pytesseract, tesseract, langchain, huggingface, opencv, tensorflow
+
+want to learn:
+djangorestframework, cursor, crewai, hackerrank, grok, n8n, photoshop, premiere, pytorch, tryhackme, virtualbox
+
+my love for python:
+pytesseract, pytest
+
+
+recuerda revisar muy bien que las anteriopres posiciones de ello se hayan borrado, y que todas estas cosas nuevas que te estoy diciendo que pongas, tienen que estar en un nuevo <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=scala,cs,dotnet,bun,haskell,lua,scratch,holyc" alt="Wanna learn">
+      </a>
+  </p>
+
+ adentro de la categoría que te dugi

@@ -12,8 +12,9 @@
 - Python Developer Jr. Adv. at [Globant](https://www.globant.com/).
 - I’m currently interested in `Software Development`, `Data Engineering`, `Machine Learning` and `Competitive Programming`.
 - Continuously learning how to code anything in basically any language, but my favourites are `Python`, `Java` and `C++`.
-- Currently [Learning deeper AWS suite and data engineering](https://github.com/QuitoTactico/Courses-and-Certifications), and [translating the visual novel of Plastic Memories](https://github.com/enoshima-memo-team) with [a team](https://github.com/enoshima-memo-team).
 - I’m looking to collaborate on back-end development, AI, and data engineering projects.
+- Currently working with an international team (through Globant) on an internal platform that provides `AI agentic services`, `RAG`, `chat experiences`, `dataset management`, and `fine-tuning capabilities` in a self-service model for a major company operating across multiple private utility sectors among the world.
+- Continuously deepening my knowledge of the AWS suite and preparing for certification ([details here](https://github.com/QuitoTactico/Courses-and-Certifications)). Also collaborating on the Spanish translation of the visual novel *[Plastic Memories](https://myanimelist.net/anime/27775/Plastic_Memories)* with the [Enoshima Memo Team](https://github.com/enoshima-memo-team).
 - How to reach me:
 [<img align="right" width="160" alt="" src="https://github.com/user-attachments/assets/44cff177-6b12-41f9-8521-741d43b67908">](https://www.textstudio.com/)
   - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> <evergarag@eafit.edu.co>
