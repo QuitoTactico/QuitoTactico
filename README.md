@@ -35,23 +35,74 @@ I have used Python to automate tasks such as file manipulation and data processi
 
 Additionally, I have worked on web application development using Django, including a [movie website](https://github.com/QuitoTactico/moviereviewsproject), a [numeric analysis and linear regression interactive graphicator](https://github.com/QuitoTactico/Proyecto_analisis), an [enterprise data interactive graphicator](https://github.com/QuitoTactico/proyecto-sinfo) and a [tech learning route generator](https://github.com/QuitoTactico/SoftServe-Academy) that is a project we made for [SoftServe Inc.](https://www.softserveinc.com/en-us), a real client. With non-opinionated frameworks, I made an [Online Store backend using Flask](https://github.com/QuitoTactico/Flask-API-REST-App) (the usual, but with swagger, smorest, migrations and JWT), also a [P2P Chord-based network](https://github.com/QuitoTactico/P2P-Chord), and a manual [Hadoop Distributed Filesystem (HDFS)](https://github.com/QuitoTactico/HDFS). Also on framework-less applications, like a [shortest route calculator/graphicator system for Medellín's streets](https://github.com/QuitoTactico/ST0245-001), with a [Medellín's Metro version](https://github.com/OmdenaAI/eafit-colombia-transportation-subway) developed along [Omdena Inc.](https://github.com/OmdenaAI), an international team.
 
-In the field of artificial intelligence, I have implemented models for [facial](https://github.com/QuitoTactico/Proyecto-ReconocimientoDeRostros) and [voice](https://github.com/QuitoTactico/PYTHON/tree/main/Reconocedor%20de%20voz) recognition, and I have also explored home automation with a [smart curtain system (RaspberryPI)](https://github.com/QuitoTactico/Proyecto-CortinasInteligentes) that responds to external light, and for Data Engineering i've worked on a [Covid data consumption and analysis](https://github.com/QuitoTactico/HiveQL-Covid-analysis) with all the AWS and PySpark stack, which I'm currently learning deeper in [Globant](https://www.globant.com/) as a tech trainee in my professional internship.
+In the field of artificial intelligence, I have implemented models for [facial](https://github.com/QuitoTactico/Proyecto-ReconocimientoDeRostros) and [voice](https://github.com/QuitoTactico/PYTHON/tree/main/Reconocedor%20de%20voz) recognition, and I have also explored home automation with a [smart curtain system (RaspberryPI)](https://github.com/QuitoTactico/Proyecto-CortinasInteligentes) that responds to external light, and for Data Engineering i've worked on a [Covid data consumption and analysis](https://github.com/QuitoTactico/HiveQL-Covid-analysis) with all the AWS and PySpark stack, which I learnt deeper in [Globant](https://www.globant.com/) as a tech trainee in my professional internship.
 
 My experience with Python is diverse, focusing on creating practical and innovative solutions while solving logical challenges that I find satisfying.
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,numpy,matplotlib,seaborn,bokeh" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,numpy,matplotlib,seaborn,bokeh" alt="My love for Python">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest,bots,opencv,regex,raspberrypi" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest,bots,regex,raspberrypi,ffmpeg" alt="My love for Python">
+    </a>
+</p>
+</details>
+
+<details>
+  <summary align="center">
+     Current Job 🧠:
+  </summary>  
+<br>
+
+In my current role at **Globant**, I am part of the **Index/RAG team**, where we develop **AWS-based infrastructure** using **Python Lambda functions** and **CloudFormation stacks** to integrate **OpenSearch** and **Azure AI Search**, enhancing the retrieval capabilities of AI agents.
+
+I design and implement **multimodal data processing pipelines** that handle diverse document types, including a **multilingual OCR system** built with *pytesseract* and *tesseract*, supporting multiple formats and languages. These components are modular and composable, enabling their reuse across multiple infrastructures within the client’s platform.
+
+Alongside my core RAG work, I build **FastAPI-based crawler agents** that aggregate information from **Confluence**, **Jira**, **Azure DevOps**, and other APIs, indexing and structuring it for intelligent retrieval. I also mentor teammates in building similar integrations for **GitHub**, **Bitbucket**, and **Salesforce**, promoting modular and scalable design patterns across the team.
+
+Beyond these integrations, I contribute to developing in-situ **Python agents** that process documents directly within the infrastructure—such as OCR pipelines or data transformers—providing reusable, low-latency solutions for AI-powered applications.
+
+<div align="center">
+  <a href='https://www.linkedin.com/posts/juan-pablo-jimenez-h_competitive-programming-what-for-in-these-ugcPost-7351272409817112576-p8dA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyBal4B2Ojxv4-ftQF2vuF5wvUQfPf-S9M'>
+    <img src="docs/CPC.png" alt="Competitive Programming Club" width="80%" />
+  </a>
+</div>
+
+Beyond professional work, I co-founded and led a **Competitive Programming Club** with close friends, where we spent years studying and experimenting with advanced algorithms, optimization strategies, and data structures. We focused especially on **probabilistic structures** and **specialized sorting algorithms**, which became my personal favorites.
+
+Our club fostered deep algorithmic thinking and collaboration, and we actively shared our insights and findings on **LinkedIn**. Some of these discussions can be seen [on my profile](https://www.linkedin.com/in/esteban-vergara-giraldo/), particularly [this post about the value of competitive programming](https://www.linkedin.com/posts/juan-pablo-jimenez-h_competitive-programming-what-for-in-these-ugcPost-7351272409817112576-p8dA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyBal4B2Ojxv4-ftQF2vuF5wvUQfPf-S9M), which captures part of what we built together.
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,mongodb,pytest,regex" alt="My love for Python">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,huggingface,gemini,langchain" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,react,npm" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,chatgpt,gemini,claude,githubcopilot" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,s3,dynamodb,elasticsearch,lambda,sqs,cloudformation,cloudwatch" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia,swagger,json,toml,terraform,opentelemetry,prometheus,grafana" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,jira,confluence,slack,teams" alt="My love for Python">
     </a>
 </p>
 </details>
@@ -71,32 +122,43 @@ https://skillicons.dev/icons?i=
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,php,cpp,SEPARADOR,c,r,arduino,matlab" alt="Languages">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,php,cs,typescript,arduino,cpp,c,r" alt="Languages">
     </a>
 </p>
 
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,laravel,flask,express,nodejs,SEPARADOR,html,css,react,js,ts" alt="Software Development">
-      <!-- PYRAMID
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,js,ts" alt="Software Development">
-      <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,laravel,react" alt="Software Development">
-      <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgres" alt="Software Development">
-      <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,mui" alt="Software Development">
-      -->
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,flask,lambda,SEPARADOR,laravel,nodejs,dotnet,unity" alt="Software Development">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy,swagger,grpc,json,yaml,SEPARADOR,insomnia,postman,wireshark,bootstrap,mui" alt="Software Development">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,mongodb,postgres,mariadb,SEPARADOR,html,css,react,bootstrap,mui" alt="Software Development">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqs,rabbitmq,grpc,jwt,swagger,SEPARADOR,sqlalchemy,elasticsearch,cloudformation,insomnia,postman" alt="Software Development">
+    </a>
+</p>
+
+<h3 align="center">DevOps</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,SEPARADOR,docker,kubernetes" alt="DevOps">
+    </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgres,mongodb,SEPARADOR,npm,pnpm,yarn,composer" alt="Software Development">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,eks,emr,cloudwatch,cloudformation" alt="DevOps">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,githubactions,terraform,toml,yaml,sonarqube" alt="DevOps">
+    </a>
 </p>
 
 <h3 align="center">Data Engineering</h3>
@@ -119,63 +181,94 @@ https://skillicons.dev/icons?i=
     </a>
 </p>
 
-<h3 align="center">DevOps</h3>
+<h3 align="center">AI (LLM and other models)</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,SEPARADOR,docker,githubactions" alt="DevOps">
-    </a>
-</p>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,eks,emr,SEPARADOR,tomcat,playwright,googleanalytics" alt="DevOps">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek,gemini,SEPARADOR,githubcopilot,SEPARADOR,langchain,huggingface,opencv,tensorflow" alt="AI (LLM and other models)">
     </a>
 </p>
 
-<h3 align="center">Miscelaneous</h3>
+<h3 align="center">Miscellaneous</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=git,windows,linux,kali,ubuntu,bash,powershell" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,ubuntu,kali,mint" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=replit,notion,md,googlecolab,jupyter,figma" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=md,latex,googlecolab,jupyter,replit,notion" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,excel,jira,lucidchart,miro,slack,teams" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,excel,powerpoint,lucidchart,mermaid" alt="Miscellaneous">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,confluence,slack,teams" alt="Miscellaneous">
     </a>
 </p>
 
 <details>
-  <summary align="center">
-    <h3 align="center">Used but not so much:</h3>
-  </summary>  
+    <summary align="center">
+        <h3 align="center">Used but not that much:</h3>
+    </summary>  
 
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=SEPARADOR" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=js,matlab,haskell,rust,scala,golang,assembly" alt="Languages">
       </a>
   </p>
+
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,azuredevops,salesforce,wordpress,drupal" alt="Cloud & Infrastructure">
+      </a>
+  </p>
+
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,dynamodb,prisma,nginx,tomcat" alt="CMS & Tools">
+      </a>
+  </p>
+
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=opentelemetry,playwright,wireshark,googleanalytics" alt="Web Development">
+      </a>
+  </p>
+
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,miro,expressjs,sass" alt="Miscellaneous">
+      </a>
+  </p>
+
+  <p align="center">
+        <a href="https://youtu.be/4CJegZYagNs?si=mia6K4wvRfchJp8x">
+            🦙🦙🦙
+        </a>
+        <a href="https://youtu.be/4CJegZYagNs?si=mia6K4wvRfchJp8x">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" alt="Miscellaneous">
+        </a>
+        <a href="https://youtu.be/4CJegZYagNs?si=mia6K4wvRfchJp8x">
+            🦙🦙🦙
+        </a>
+  </p>
+
 </details>
 
 <details>
   <summary align="center">
-    <h3 align="center">Currently Learning:</h3>
+    <h3 align="center">Currently Learning/Improving:</h3>
   </summary>  
   
   <p align="center">(In order)</p>
   
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,lambda,elasticsearch,terraform,cloudwatch,grafana" alt="Wanna learn">
-      </a>
-  </p>
-
-  <p align="center">
-      <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb,redis,snowflake,databricks,kubernetes,go" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=js,azuredevops,salesforce,dynamodb,SEPARADOR,opentelemetry,redis,blender,unreal" alt="Currently Learning">
       </a>
   </p>
 </details>
@@ -187,47 +280,43 @@ https://skillicons.dev/icons?i=
   
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=scala,cs,dotnet,bun,haskell,lua,scratch,holyc" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,bun,scratch,holyc" alt="Languages & Linux">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,spring,htmx,wordpress,drupal,jquery,prisma" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,spring,htmx,jquery,djangorestframework" alt="Web Frameworks">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,azuredevops,vercel,nginx,jenkins,lighthouse" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,heroku,vercel,SEPARADOR,jenkins,cloudflare,lighthouse" alt="DevOps & Learning Platforms">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cassandra,graphql,apollo,kafka,mariadb" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,apollo,cassandra,neo4j,SEPARADOR,renpy,selenium,pygame,pytorch" alt="Data & APIs">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,unity,unreal,pbi" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,virtualbox,SEPARADOR,cursor,n8n,crewai" alt="Linux & Learning">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=renpy,selenium,pytorch,pygame" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank,tryhackme,SEPARADOR,photoshop,premiere" alt="Tools & Productivity">
       </a>
   </p>
+  
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=mint,arch,debian,hyprland" alt="Wanna learn">
-      </a>
-  </p>
-  <p align="center">
-      <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=salesforce,cloudflare,dbtlabs" alt="Wanna learn">
-      </a>
-  </p>
-  <p align="center">
-      <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,latex,obsidian" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake,databricks,dbtlabs" alt="Tools & Productivity">
       </a>
   </p>
   
