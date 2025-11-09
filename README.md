@@ -16,11 +16,11 @@
 - I’m looking to collaborate on back-end development, AI, and data engineering projects.
 - How to reach me:
 [<img align="right" width="160" alt="" src="https://github.com/user-attachments/assets/44cff177-6b12-41f9-8521-741d43b67908">](https://www.textstudio.com/)
-  - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> evergarag@eafit.edu.co
-  - <img alt="" width="13" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAxCQRtgtb4Pp_bSwN5567dU_M-aBifjuh7g&s"> esteban.vergara@globant.com
+  - <img alt="" width="13" src="https://yt3.googleusercontent.com/lNUIMCfhX_4YNdTbu5sYPHkGaiva1e4Wg9MGaZ0K-RF93zWUU92pGYnKjQ_wOm1AgM1zrU9OPpg=s900-c-k-c0x00ffffff-no-rj"> <evergarag@eafit.edu.co>
+  - <img alt="" width="13" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAxCQRtgtb4Pp_bSwN5567dU_M-aBifjuh7g&s"> <esteban.vergara@globant.com>
 [<img align="right" width="155" alt="" src="https://count.getloli.com/get/@:quitotactico?theme=booru-lewd&darkmode=0&offset=-9">](https://count.getloli.com/) <!-- [<img align="right" height="50" alt="" src="https://count.akame.moe/@quitotactico?theme=rule34">](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
-  - <img alt="" width="13" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png"> teteban0917@gmail.com
-  - <img alt="" width="13" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"> www.linkedin.com/in/esteban-vergara-giraldo
+  - <img alt="" width="13" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png"> <teteban0917@gmail.com>
+  - <img alt="" width="13" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"> [esteban-vergara-giraldo](https://www.linkedin.com/in/esteban-vergara-giraldo/)
 
 <details>
   <summary align="center">
@@ -32,7 +32,7 @@ I have an extensive repertoire of over 450 Python scripts, focused on competitiv
 
 I have used Python to automate tasks such as file manipulation and data processing, creating scripts that enhance efficiency in repetitive processes, like an RPA for [comfortable listening of YouTube playlists](https://github.com/QuitoTactico/NOVVAE). I have also developed data analysis projects, like an [anime recommendation system](https://github.com/QuitoTactico/myanimelist-sorting) based on the MyAnimeList API, developed solutions to many [competitive programming problems in Codewars](https://github.com/QuitoTactico/PYTHON/tree/main/CODEWARS), and participated in game development, notably creating a [Dungeons & Dragons game generator](https://github.com/QuitoTactico/DnD-AI) with interactive map and AI usage for image generation and natural language processing, my biggest and coolest project to date, which I'm going to update soon to introduce better practices, a better map engine, and CI/CD.
 
-Additionally, I have worked on web application development using Django, including a [movie website](https://github.com/QuitoTactico/moviereviewsproject), a [numeric analysis and linear regression interactive graphicator](https://github.com/QuitoTactico/Proyecto_analisis), an [enterprise data interactive graphicator](https://github.com/QuitoTactico/proyecto-sinfo) and a [tech learning route generator](https://github.com/QuitoTactico/SoftServe-Academy) that is a project we made for [SoftServe Inc.](https://www.softserveinc.com/en-us), a real client. With non-opinionated frameworks, I made an [Online Store backend using Flask](https://github.com/QuitoTactico/Flask-API-REST-App) (the usual, but with swagger, smorest, migrations and JWT), also a [P2P Chord-based network](https://github.com/QuitoTactico/P2P-Chord), and a manual [Hadoop Distributed Filesystem (HDFS)](https://github.com/QuitoTactico/HDFS). Also on framework-less applications, like a [shortest route calculator/graphicator system for Medellín's streets](https://github.com/QuitoTactico/ST0245-001), with a [Medellín's Metro version](https://github.com/OmdenaAI/eafit-colombia-transportation-subway) developed along [Omdena Inc.](https://github.com/OmdenaAI), an international team. 
+Additionally, I have worked on web application development using Django, including a [movie website](https://github.com/QuitoTactico/moviereviewsproject), a [numeric analysis and linear regression interactive graphicator](https://github.com/QuitoTactico/Proyecto_analisis), an [enterprise data interactive graphicator](https://github.com/QuitoTactico/proyecto-sinfo) and a [tech learning route generator](https://github.com/QuitoTactico/SoftServe-Academy) that is a project we made for [SoftServe Inc.](https://www.softserveinc.com/en-us), a real client. With non-opinionated frameworks, I made an [Online Store backend using Flask](https://github.com/QuitoTactico/Flask-API-REST-App) (the usual, but with swagger, smorest, migrations and JWT), also a [P2P Chord-based network](https://github.com/QuitoTactico/P2P-Chord), and a manual [Hadoop Distributed Filesystem (HDFS)](https://github.com/QuitoTactico/HDFS). Also on framework-less applications, like a [shortest route calculator/graphicator system for Medellín's streets](https://github.com/QuitoTactico/ST0245-001), with a [Medellín's Metro version](https://github.com/OmdenaAI/eafit-colombia-transportation-subway) developed along [Omdena Inc.](https://github.com/OmdenaAI), an international team.
 
 In the field of artificial intelligence, I have implemented models for [facial](https://github.com/QuitoTactico/Proyecto-ReconocimientoDeRostros) and [voice](https://github.com/QuitoTactico/PYTHON/tree/main/Reconocedor%20de%20voz) recognition, and I have also explored home automation with a [smart curtain system (RaspberryPI)](https://github.com/QuitoTactico/Proyecto-CortinasInteligentes) that responds to external light, and for Data Engineering i've worked on a [Covid data consumption and analysis](https://github.com/QuitoTactico/HiveQL-Covid-analysis) with all the AWS and PySpark stack, which I'm currently learning deeper in [Globant](https://www.globant.com/) as a tech trainee in my professional internship.
 
@@ -237,12 +237,11 @@ https://skillicons.dev/icons?i=
 
 ---
 
-<div align="center"> 
+<div align="center">
   
   <img height=270 src="https://github-readme-stats.vercel.app/api?username=quitotactico&include_all_commits=true&show_icons=true&rank_icon=percentile&card_width=300px&theme=dark&line_height=30&custom_title=QuitoTactico%27s+Github+stats&number_format=long&role=owner,collaborator" alt="QuitoTactico's Github stats" />
   
   <img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&card_width=310&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
-
 
   <!--
   <img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitotactico&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=dark&size_weight=0.35&count_weight=0.65&card_width=310&custom_title=QuitoTactico%27s+Language+stats&card_width=1px" alt="QuitoTactico's Language stats" />
@@ -264,7 +263,6 @@ https://skillicons.dev/icons?i=
   </a>
   <!-- &rank=-C,-B -->
 </div>
-
 
 <!-- ------------------------------- TRASH --------------------------------------- -->
 
@@ -299,8 +297,6 @@ True: https://github-readme-stats.vercel.app/api?
 Rick: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
 -->
 
-
-
 <!--
 ![Python](https://badgen.net/badge/Python/3.12/green) ![C++](https://badgen.net/badge/C++/20/blue) ![Java](https://badgen.net/badge/Java/8/yellow) ![HTML](https://badgen.net/badge/HTML/5/red) ![CSS](https://badgen.net/badge/CSS/3/blue)
 -->
@@ -310,7 +306,6 @@ Rick: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
 -->
 
 <!-- LMAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
-
 
 <!--
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
