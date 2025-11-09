@@ -67,18 +67,48 @@ Alongside my core RAG work, I build **FastAPI-based crawler agents** that aggreg
 
 Beyond these integrations, I contribute to developing in-situ **Python agents** that process documents directly within the infrastructure—such as OCR pipelines or data transformers—providing reusable, low-latency solutions for AI-powered applications.
 
+<div align="center">
+  <a href='https://www.linkedin.com/posts/juan-pablo-jimenez-h_competitive-programming-what-for-in-these-ugcPost-7351272409817112576-p8dA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyBal4B2Ojxv4-ftQF2vuF5wvUQfPf-S9M'>
+    <img src="docs/CPC.png" alt="Competitive Programming Club" width="80%" />
+  </a>
+</div>
+
 Beyond professional work, I co-founded and led a **Competitive Programming Club** with close friends, where we spent years studying and experimenting with advanced algorithms, optimization strategies, and data structures. We focused especially on **probabilistic structures** and **specialized sorting algorithms**, which became my personal favorites.
 
 Our club fostered deep algorithmic thinking and collaboration, and we actively shared our insights and findings on **LinkedIn**. Some of these discussions can be seen [on my profile](https://www.linkedin.com/in/esteban-vergara-giraldo/), particularly [this post about the value of competitive programming](https://www.linkedin.com/posts/juan-pablo-jimenez-h_competitive-programming-what-for-in-these-ugcPost-7351272409817112576-p8dA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyBal4B2Ojxv4-ftQF2vuF5wvUQfPf-S9M), which captures part of what we built together.
 
 
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,mongodb,pytest,regex" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,react,npm" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,chatgpt,gemini,claude,githubcopilot" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,s3,dynamodb,elasticsearch,lambda,sqs,cloudformation,cloudwatch" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia,swagger,json,toml,terraform,opentelemetry,prometheus,grafana" alt="My love for Python">
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,jira,confluence,slack,teams" alt="My love for Python">
+    </a>
+</p>
 </details>
-
-
-
-
-
-
 
 
 <!-- - If you tell me to put DOOM-64 on your microwave, i'll do it. -->
