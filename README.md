@@ -139,7 +139,7 @@ https://skillicons.dev/icons?i=
 
 
 
-<h3 align="center">Miscelaneous</h3>
+<h3 align="center">Miscellaneous</h3>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,ubuntu,kali,mint" alt="Miscellaneous">
@@ -213,14 +213,14 @@ https://skillicons.dev/icons?i=
 
 <details>
   <summary align="center">
-    <h3 align="center">Currently Learning:</h3>
+    <h3 align="center">Currently Learning/Improving:</h3>
   </summary>  
   
   <p align="center">(In order)</p>
   
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,blender,unreal" alt="Currently Learning">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=js,azuredevops,salesforce,dynamodb,SEPARADOR,opentelemetry,redis,blender,unreal" alt="Currently Learning">
       </a>
   </p>
 </details>
@@ -262,7 +262,13 @@ https://skillicons.dev/icons?i=
 
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank,tryhackme,SEPARADOR,snowflake,databricks,dbtlabs,SEPARADOR,photoshop,premiere" alt="Tools & Productivity">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank,tryhackme,SEPARADOR,photoshop,premiere" alt="Tools & Productivity">
+      </a>
+  </p>
+  
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake,databricks,dbtlabs" alt="Tools & Productivity">
       </a>
   </p>
   
