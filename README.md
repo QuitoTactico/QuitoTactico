@@ -161,31 +161,54 @@ https://skillicons.dev/icons?i=
     </a>
 </p>
 
+
 <details>
-  <summary align="center">
-    <h3 align="center">Used but not that much:</h3>
-  </summary>  
+    <summary align="center">
+        <h3 align="center">Used but not that much:</h3>
+    </summary>  
 
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=js,matlab,haskell,rust,scala,golang,wireshark,materialui,pnpm,expressjs" alt="Used but not that much">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=js,matlab,haskell,rust,scala,golang,assembly" alt="Languages">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=sass,tomcat,playwright,googleanalytics,figma,azuredevops,dynamodb,kafka" alt="Used but not that much">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,azuredevops,salesforce,wordpress,drupal" alt="Cloud & Infrastructure">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=mint,salesforce,nginx,prisma,assembly,azure,drupal" alt="Used but not that much">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,dynamodb,prisma,nginx,tomcat" alt="CMS & Tools">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress,elasticsearch,opentelemetry,ollama,miro,microsoftcopilot,overleaf" alt="Used but not that much">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=opentelemetry,playwright,wireshark,googleanalytics" alt="Web Development">
       </a>
   </p>
+
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,miro,expressjs,sass" alt="Miscellaneous">
+      </a>
+  </p>
+
+  <p align="center">
+        <a href="https://youtu.be/4CJegZYagNs?si=mia6K4wvRfchJp8x">
+            🦙🦙🦙
+        </a>
+        <a href="https://youtu.be/4CJegZYagNs?si=mia6K4wvRfchJp8x">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" alt="Miscellaneous">
+        </a>
+        <a href="https://youtu.be/4CJegZYagNs?si=mia6K4wvRfchJp8x">
+            🦙🦙🦙
+        </a>
+  </p>
+
 </details>
 
 <details>
@@ -197,7 +220,7 @@ https://skillicons.dev/icons?i=
   
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,snowflake,databricks" alt="Currently Learning">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,blender,unreal" alt="Currently Learning">
       </a>
   </p>
 </details>
@@ -209,52 +232,37 @@ https://skillicons.dev/icons?i=
   
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,bun,lua,scratch,holyc" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=lua,bun,scratch,holyc" alt="Languages & Linux">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,spring,htmx,jquery" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,spring,htmx,jquery,djangorestframework" alt="Web Frameworks">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,jenkins,lighthouse" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,heroku,vercel,SEPARADOR,jenkins,cloudflare,lighthouse" alt="DevOps & Learning Platforms">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cassandra,graphql,apollo" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,apollo,cassandra,neo4j,SEPARADOR,renpy,selenium,pygame,pytorch" alt="Data & APIs">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,unreal,pbi" alt="Wanna learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,virtualbox,SEPARADOR,cursor,n8n,crewai" alt="Linux & Learning">
       </a>
   </p>
+
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=renpy,selenium,pygame" alt="Wanna learn">
-      </a>
-  </p>
-  <p align="center">
-      <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,debian,hyprland" alt="Wanna learn">
-      </a>
-  </p>
-  <p align="center">
-      <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,dbtlabs" alt="Wanna learn">
-      </a>
-  </p>
-  <p align="center">
-      <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,obsidian" alt="Wanna learn">
-      </a>
-  </p>
-  <p align="center">
-      <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=djangorestframework,cursor,crewai,hackerrank,n8n,photoshop,premiere,pytorch,tryhackme,virtualbox" alt="Want to learn">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank,tryhackme,SEPARADOR,snowflake,databricks,dbtlabs,SEPARADOR,photoshop,premiere" alt="Tools & Productivity">
       </a>
   </p>
   
