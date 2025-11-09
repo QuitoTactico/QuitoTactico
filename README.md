@@ -46,7 +46,7 @@ My experience with Python is diverse, focusing on creating practical and innovat
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest,bots,regex,raspberrypi" alt="My love for Python">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest,bots,regex,raspberrypi,ffmpeg" alt="My love for Python">
     </a>
 </p>
 </details>
@@ -66,41 +66,45 @@ https://skillicons.dev/icons?i=
 <h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,php,cpp,SEPARADOR,c,r,arduino" alt="Languages">
-    </a>
-</p>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" alt="Languages">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,php,cs,typescript,arduino,cpp,c,r" alt="Languages">
     </a>
 </p>
 
 <h3 align="center">Software Development</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,laravel,flask,nodejs,SEPARADOR,html,css,react,js,ts" alt="Software Development">
-      <!-- PYRAMID
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,js,ts" alt="Software Development">
-      <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,laravel,react" alt="Software Development">
-      <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgres" alt="Software Development">
-      <br>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,mui" alt="Software Development">
-      -->
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,flask,lambda,SEPARADOR,laravel,nodejs,dotnet,unity" alt="Software Development">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy,swagger,grpc,json,yaml,SEPARADOR,insomnia,postman,bootstrap,mui" alt="Software Development">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,mongodb,postgres,mariadb,SEPARADOR,html,css,react,bootstrap,mui" alt="Software Development">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqs,rabbitmq,grpc,jwt,swagger,SEPARADOR,sqlalchemy,elasticsearch,cloudformation,insomnia,postman" alt="Software Development">
+    </a>
+</p>
+
+
+
+
+<h3 align="center">DevOps</h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,SEPARADOR,docker,kubernetes" alt="DevOps">
+    </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgres,mongodb,SEPARADOR,npm,yarn,composer" alt="Software Development">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,eks,emr,cloudwatch,cloudformation" alt="DevOps">
+    </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,mariadb,dotnet,unity,lambda,opensearch,cloudformation,rabbitmq,sqs,jwt" alt="Software Development">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,githubactions,terraform,toml,yaml,sonarqube" alt="DevOps">
     </a>
 </p>
 
@@ -124,49 +128,36 @@ https://skillicons.dev/icons?i=
     </a>
 </p>
 
-<h3 align="center">DevOps</h3>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,SEPARADOR,docker,githubactions" alt="DevOps">
-    </a>
-</p>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,eks,emr" alt="DevOps">
-    </a>
-</p>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes,grafana,terraform,cloudwatch,sonarqube" alt="DevOps">
-    </a>
-</p>
+
 
 <h3 align="center">AI (LLM and other models)</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,githubcopilot,deepseek,gemini,langchain,huggingface,opencv,tensorflow" alt="AI (LLM and other models)">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,deepseek,gemini,SEPARADOR,githubcopilot,SEPARADOR,langchain,huggingface,opencv,tensorflow" alt="AI (LLM and other models)">
     </a>
 </p>
+
+
 
 <h3 align="center">Miscelaneous</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=git,windows,linux,kali,ubuntu,bash,powershell" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux,ubuntu,kali,mint" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=replit,notion,md,googlecolab,jupyter" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=md,latex,googlecolab,jupyter,replit,notion" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,excel,jira,lucidchart,slack,teams" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,excel,powerpoint,lucidchart,mermaid" alt="Miscellaneous">
     </a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=toml,yaml,json,confluence,leetcode,ffmpeg,mermaid,powerpoint,wsl" alt="Miscellaneous">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,confluence,slack,teams" alt="Miscellaneous">
     </a>
 </p>
 
@@ -177,7 +168,7 @@ https://skillicons.dev/icons?i=
 
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,haskell,rust,scala,golang,wireshark,materialui,pnpm,expressjs" alt="Used but not that much">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=js,matlab,haskell,rust,scala,golang,wireshark,materialui,pnpm,expressjs" alt="Used but not that much">
       </a>
   </p>
   <p align="center">
@@ -187,7 +178,7 @@ https://skillicons.dev/icons?i=
   </p>
   <p align="center">
       <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=mint,salesforce,latex,nginx,prisma,assembly,azure,drupal" alt="Used but not that much">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=mint,salesforce,nginx,prisma,assembly,azure,drupal" alt="Used but not that much">
       </a>
   </p>
   <p align="center">
