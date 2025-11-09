@@ -149,6 +149,18 @@ https://skillicons.dev/icons?i=
 
 <details>
   <summary align="center">
+    <h3 align="center">Used but not so much:</h3>
+  </summary>  
+
+  <p align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=SEPARADOR" alt="Wanna learn">
+      </a>
+  </p>
+</details>
+
+<details>
+  <summary align="center">
     <h3 align="center">Currently Learning:</h3>
   </summary>  
   
@@ -165,7 +177,6 @@ https://skillicons.dev/icons?i=
           <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb,redis,snowflake,databricks,kubernetes,go" alt="Wanna learn">
       </a>
   </p>
-  
 </details>
 
 <details>
