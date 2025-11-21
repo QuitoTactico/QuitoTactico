@@ -212,7 +212,7 @@ https://skillicons.dev/icons?i=
 
 <details>
     <summary align="center">
-        <h3 align="center">Used but not that much:</h3>
+        <h3 align="center">Used but not so much:</h3>
     </summary>  
 
   <p align="center">
